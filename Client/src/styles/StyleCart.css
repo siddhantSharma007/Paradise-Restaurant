@@ -1,0 +1,32 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .shopping-card {
+    justify-content: space-between;
+    /* background-color: #1f8ece; */
+    padding: 20px 30px;
+  }
+  
+  .product-item {
+    padding: 20px;
+  }
+
+  .card{
+    width:300px;
+    height:460px;
+    margin:1.5rem;
+    box-shadow: 0 7px 12px;
+    box-sizing: border-box;
+    margin-left: 50px;
+    /* position:relative; */
+}
+
+  .main1
+{
+    background-color: black;
+}
+
+
+
